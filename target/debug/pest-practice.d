@@ -1,0 +1,1 @@
+C:\Users\Misha\rust-learning-path\pest-practice\target\debug\pest-practice.exe: C:\Users\Misha\rust-learning-path\pest-practice\src\grammar.pest C:\Users\Misha\rust-learning-path\pest-practice\src\main.rs
